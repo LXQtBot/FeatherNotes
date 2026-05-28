@@ -623,7 +623,7 @@
     <message>
         <location filename="../../fn.ui" line="968"/>
         <source>&amp;Preferences</source>
-        <translation>기본 설정(&amp;P)</translation>
+        <translation>환경설정(&amp;P)</translation>
     </message>
     <message>
         <location filename="../../fn.ui" line="971"/>
@@ -1511,7 +1511,7 @@ Do you want to replace it?
     <message>
         <location filename="../../fn.cpp" line="6645"/>
         <source>See Preferences → Text → Spell Checking!</source>
-        <translation>기본 설정 → 텍스트 → 맞춤법 검사를 참조하십시오!</translation>
+        <translation>환경설정 → 텍스트 → 맞춤법 검사를 참조하십시오!</translation>
     </message>
     <message>
         <location filename="../../fn.cpp" line="6661"/>
@@ -1565,7 +1565,7 @@ Do you want to replace it?
     <message>
         <location filename="../../prefDialog.ui" line="14"/>
         <source>Preferences</source>
-        <translation>기본 설정</translation>
+        <translation>환경설정</translation>
     </message>
     <message>
         <location filename="../../prefDialog.ui" line="27"/>
